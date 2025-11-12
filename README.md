@@ -1,2 +1,1 @@
-Analise sobre corridas de taxi cuja
-tarefa é encontrar padrões nas informações disponíveis. Você quer entender as preferências dos passageiros e o impacto de fatores externos nas corridas.
+Analise sobre corridas de taxi cuja tarefa é encontrar padrões e preferências dos passageiros e o impacto de fatores externos nas corridas, alem de analisar os concorrentes e teste de hipótese sobre o impacto do clima na frequência das viagens.
